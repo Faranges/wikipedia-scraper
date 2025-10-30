@@ -217,3 +217,7 @@ __marimo__/
 
 # Extra files
 **/.DS_Store
+
+# Virtual Environment files
+wikipedia_scraper_env/
+
